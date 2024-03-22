@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center"><h3>I'm Aniket Patole.</h3><br><br>- 🔭 I’m a former Application Development Associate at Accenture.<br>- 📚 I'm currently pursuing masters in Information Systems at Northeastern University<br>- ⚡ In my free time I play tennis, football.</p>
+<p align="center"><h2>I'm Aniket Patole.</h2><br>- 🔭 I’m a former Application Development Associate at Accenture.<br>- 📚 I'm currently pursuing masters in Information Systems at Northeastern University<br>- ⚡ In my free time I play tennis, football.</p>
 
 ###
 
