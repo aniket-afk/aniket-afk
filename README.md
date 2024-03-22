@@ -76,7 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aniket-afk/aniket-afk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aniket-afk/Projects/output/snake.svg" alt="Snake animation" />
 
 ###
 <!--
