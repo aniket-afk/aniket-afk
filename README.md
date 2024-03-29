@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="500" src="AI.jpeg"  />
+  <img height="300" width="700" src="AI.jpeg"  />
 </div>
 
 ###
