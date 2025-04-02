@@ -58,11 +58,11 @@ I pride myself on being a collaborative and approachable team player who thrives
 ## 🎓 **Education**  
 ### **Northeastern University**  
 *MS in Information Systems* (2023 - 2025)  
-**Relevant Courses**: Big Data Systems, Data Architecture & BI, Database Management  
+**Relevant Courses**: Big Data Systems, Data Architecture & BI, Data Science Methods & Tools, Program Structures and Algorithms
 
 ### **University of Pune**  
-*BE in Computer Science* (2018 - 2022)  
-**Relevant Courses**: Data Science, Statistics, OOP, Cloud Computing  
+*BE in Computer Science* (2017 - 2021)  
+**Relevant Courses**: Data Structures and Algorithms, Object Oriented Programming, Database management  
 
 ---
 
