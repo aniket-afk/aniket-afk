@@ -1,4 +1,4 @@
-# Hi👋, Aniket Patole 👨💻
+# Hi👋, I'm Aniket Patole 👨💻
 **Data Engineer | Big Data Specialist**  
 📍 Boston, MA | 📧 [patole.an@northeastern.edu](mailto:patole.an@northeastern.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aniketpatole/) | 💻 [GitHub](https://github.com/aniketpatole)  
