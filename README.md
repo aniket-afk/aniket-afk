@@ -36,16 +36,22 @@ I pride myself on being a collaborative and approachable team player who thrives
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### **Data Tools**  
+### **Data Engineering & ML Tools**  
+![Databricks](https://img.shields.io/badge/Databricks-F35A29?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-### **Visualization**  
+### **AI & Generative Intelligence**  
+![LLMs](https://img.shields.io/badge/LLMs-%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96-9cf?style=for-the-badge&logo=openai&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Contextual%20AI-007EC6?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Instruct-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
+
+### **Visualization & BI**  
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
----
+
 
 ## 💼 **Professional Experience**  
 - #### **Data Analyst (Admissions Operations)** @ Northeastern University *(Sept 2024 - Present)*  
