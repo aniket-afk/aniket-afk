@@ -68,7 +68,6 @@ I pride myself on being a collaborative and approachable team player who thrives
 ### **University of Pune**  
 *BE in Computer Science* (2017 - 2021)  
 **Relevant Courses**: Data Structures and Algorithms, Object Oriented Programming, Database management  
-
 ---
 
 ## 🔥 **Projects**  
@@ -84,8 +83,8 @@ I pride myself on being a collaborative and approachable team player who thrives
 ---
 
 ## 📜 **Certifications**  
-- AWS Certified Data Engineer (In Progress)  
-- Databricks Data Engineer Associate (In Progress)  
+- [AWS Certified Data Engineer Associate](https://www.credly.com/badges/7579a8be-a6b2-4117-aa1f-5665230e0ba5/public_url) - Valid Till 2028
+- [Databricks Data Engineer Associate](https://credentials.databricks.com/1caee895-c0cc-4a06-9adc-135bc34c3f85#acc.1xiaFqdR)  - Valid till 2027
 
 ---
 
