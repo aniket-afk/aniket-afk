@@ -65,6 +65,7 @@ I pride myself on being a collaborative and approachable team player who thrives
 *MS in Information Systems* (2023 - 2025)  
 **Relevant Courses**: Big Data Systems, Data Architecture & BI, Data Science Methods & Tools, Program Structures and Algorithms
 
+
 ### **University of Pune**  
 *BE in Computer Science* (2017 - 2021)  
 **Relevant Courses**: Data Structures and Algorithms, Object Oriented Programming, Database management  
