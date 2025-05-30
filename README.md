@@ -54,7 +54,7 @@ I pride myself on being a collaborative and approachable team player who thrives
 
 
 ## 💼 **Professional Experience**  
-- #### **Data Analyst (Admissions Operations)** @ Northeastern University *(Sept 2024 - Present)*  
+- #### **Data Analyst (Admissions Assistant)** @ Northeastern University *(Sept 2024 - Apr 2025)*  
 - #### **Data Engineer** @ Accenture *(Aug 2021 - Jul 2023)*
 - #### **Data Engineer Intern** @ TechSmart Systems *(May 2020 - Aug 2020)*  
 
